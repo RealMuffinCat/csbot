@@ -1,6 +1,6 @@
 [bot]
-token = "YOURTOKENHERE"
-client_id = "IDHERE"
+token = "MTU1NTYzODUxOTI0OTExNzE5NQ.GL5-Nb.qMB42M0phjF3PQ1Xl_Oxf5oIEY6VykHZFpbJ_o"
+client_id = "1555638519249117195"
 
 [settings]
 activity = "Counter-Strike 2"
@@ -8,7 +8,7 @@ activity_type = "PLAYING"
 status = "online"
 
 [steam]
-api_key = "STEAMAPIKEYHERE"
+api_key = "3AD81A6E07CE9CEC509B0A44CB3A8848"
 
 [faceit]
 api_key = "FACEITAPIKEYHERE"
